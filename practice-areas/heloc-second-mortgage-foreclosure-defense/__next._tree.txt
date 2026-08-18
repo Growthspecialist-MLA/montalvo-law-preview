@@ -1,2 +1,2 @@
-:HL["/montalvo-law-preview/_next/static/chunks/19vrbispo6j81.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"practice-areas","param":null,"prefetchHints":0,"slots":{"children":{"name":"heloc-second-mortgage-foreclosure-defense","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"sGrzcXf3RdAY6Txwi4Q9c"}
+:HL["/montalvo-law-preview/_next/static/chunks/24ika78adx75p.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"practice-areas","param":null,"prefetchHints":0,"slots":{"children":{"name":"heloc-second-mortgage-foreclosure-defense","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"4hDduyW6DmwEUaOgOXE5X"}
