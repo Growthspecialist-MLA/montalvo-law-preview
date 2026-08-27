@@ -1,2 +1,2 @@
 :HL["/montalvo-law-preview/_next/static/chunks/1lpiqg3jbu8fu.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"practice-areas","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"n23N5yFvnc97FE44HXk-4"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"practice-areas","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"VBFZ7fSKvQC3Z7i3xfPgC"}
